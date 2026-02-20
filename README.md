@@ -1,4 +1,5 @@
 <div align="center">
+  <img scr="" alt="Barwaaqso Logo" width="200" />
   <h1>👋 Welcome to Barwaaqso</h1>
   <h3>Empowering Somali Professionals & Connecting Them with Trusted Clients</h3>
 
