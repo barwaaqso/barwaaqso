@@ -1,5 +1,5 @@
 <div align="center">
-  <img scr="https://github.com/barwaaqso/barwaaqso/blob/main/barwaaqso_logo.png" alt="Barwaaqso Logo" width="200" />
+  <img scr="https://github.com/barwaaqso/barwaaqso/blob/main/barwaaqso_logo.png" alt="Barwaaqso Logo" width="" />
   <h1>👋 Welcome to Barwaaqso</h1>
   <h3>Empowering Somali Professionals & Connecting Them with Trusted Clients</h3>
 
