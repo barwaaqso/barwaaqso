@@ -4,8 +4,8 @@
 
   <p align="center">
     <a href="mailto:info@barwaaqso.com"><img src="https://img.shields.io/badge/Email-Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-Visit_Platform-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Follow_Us-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://barwaaqso.com"><img src="https://img.shields.io/badge/Website-Visit_Platform-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://www.linkedin.com/in/shaafie-shire-458804347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-Follow_Us-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 </div>
 
