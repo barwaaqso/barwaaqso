@@ -1,5 +1,5 @@
+ <img src="barwaaqso -02.png" alt="Barwaaqso Logo" width="300px" />
 <div align="center">
-  <img src="barwaaqso -02.png" alt="Barwaaqso Logo" width="400px" />
   <h1>👋 Welcome to Barwaaqso</h1>
   <h3>Empowering Somali Professionals & Connecting Them with Trusted Clients</h3>
 
